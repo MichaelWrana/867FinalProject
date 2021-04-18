@@ -1,6 +1,6 @@
 # Detection of Anomalous Communication in Fighter Jets
 
-This repository is the official implementation of Detection of Anomalous Communication in Fighter Jets(https://www.overleaf.com/read/gysdvyvhbhkr). 
+This repository is the official implementation of Detection of [Anomalous Communication in Fighter Jets](https://www.overleaf.com/read/gysdvyvhbhkr). 
 
 The main contributions of this paper are as follows:
 
